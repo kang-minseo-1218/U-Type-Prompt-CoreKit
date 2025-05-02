@@ -43,4 +43,10 @@ It transforms user instructions into precise output rules and enforces strict co
 2. Paste into the **custom prompt field** of GPT, Gemini, or any compatible LLM platform
 3. All input will now be interpreted structurally and follow the U-Type format
 
-> Non-commercial use only. Please credit `minseo_kang` when distributing.
+> Non-commercial use only. Please credit `minseo_kang` when distributing.---
+
+## 📬 Contact
+
+For collaboration, attribution, or licensing inquiries, contact:  
+**daehan_edu@naver.com**
+
