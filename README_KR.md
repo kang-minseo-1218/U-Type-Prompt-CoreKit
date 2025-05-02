@@ -43,4 +43,11 @@ U-Type Prompt CoreKit은 GPT, Gemini 등 AI 모델의 출력을 구조적으로 
 2. GPT, Gemini, 퍼블렉 등 **Custom Prompt 입력란**에 붙여넣습니다.  
 3. 이후 입력되는 모든 명령은 자동으로 구조화되어 처리됩니다.
 
+---
+
+## 📬 연락처
+
+협업, 인용, 라이선스 문의는 아래 이메일로 주세요:  
+**daehan_edu@naver.com**
+
 > 본 자료는 비상업적 사용만 허용되며, 배포 시 반드시 `minseo_kang`을 출처로 표기해야 합니다.
