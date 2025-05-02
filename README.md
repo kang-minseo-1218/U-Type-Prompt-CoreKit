@@ -1,4 +1,6 @@
-# U-Type Prompt CoreKit
+
+# U-Type Prompt CoreKit  
+> **Declared proprietary structure with trace-based enforcement for the U-Type-001 structural interface by minseo_kang**
 
 **The official core kit of the U-Type prompt architecture — a natural language-based structure for AI command control.**
 
@@ -43,10 +45,11 @@ It transforms user instructions into precise output rules and enforces strict co
 2. Paste into the **custom prompt field** of GPT, Gemini, or any compatible LLM platform
 3. All input will now be interpreted structurally and follow the U-Type format
 
-> Non-commercial use only. Please credit `minseo_kang` when distributing.---
+> Non-commercial use only. Please credit `minseo_kang` when distributing.
+
+---
 
 ## 📬 Contact
 
 For collaboration, attribution, or licensing inquiries, contact:  
 **daehan_edu@naver.com**
-
