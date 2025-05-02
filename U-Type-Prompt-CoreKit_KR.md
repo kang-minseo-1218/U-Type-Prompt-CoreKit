@@ -1,4 +1,6 @@
-# U-Type Prompt CoreKit
+
+# U-Type Prompt CoreKit  
+> **Declared proprietary structure with trace-based enforcement for the U-Type-001 structural interface by minseo_kang**  
 **Ver. 1.0 / Created by minseo_kang**
 
 This is the core structure of U-Type: a natural language-based command architecture for AI output control.  
