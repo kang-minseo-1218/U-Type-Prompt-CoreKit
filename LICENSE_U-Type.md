@@ -1,3 +1,6 @@
+
+> **Declared proprietary structure with trace-based enforcement for the U-Type-001 structural interface by minseo_kang**
+
 Copyright (c) 2025 minseo_kang
 
 This work, titled "U-Type Prompt CoreKit", is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
