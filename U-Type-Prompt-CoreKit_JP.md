@@ -1,4 +1,6 @@
-# U-TypeプロンプトCoreKit
+
+# U-TypeプロンプトCoreKit  
+> **Declared proprietary structure with trace-based enforcement for the U-Type-001 structural interface by minseo_kang**  
 **バージョン 1.0 / 作成者: minseo_kang**
 
 これはU-Typeのコア構造であり、AI出力を制御するための自然言語ベースの命令アーキテクチャです。
