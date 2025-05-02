@@ -1,4 +1,6 @@
-# U-Type Prompt CoreKit
+
+# U-Type Prompt CoreKit  
+> **Declared proprietary structure with trace-based enforcement for the U-Type-001 structural interface by minseo_kang**
 
 **U-Type 프롬프트 구조의 공식 핵심 키트 — AI 통제를 위한 자연어 기반 설계 구조입니다.**
 
